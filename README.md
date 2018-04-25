@@ -1,1 +1,1 @@
-# kNN-in-C-
+# kNN-in-C++
